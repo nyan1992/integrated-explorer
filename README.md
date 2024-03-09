@@ -13,7 +13,7 @@ Live at : https://explorer.ruanchengren.ninja
 ## Installation
 
 ```bash
-git clone https://github.com/nyan_ng92/intergrated-explorer.git
+git clone https://github.com/nyan_ng92/integrated-explorer.git
 cd namada-explorer-ui
 npm install -g yarn
 yarn install
